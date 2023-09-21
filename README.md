@@ -19,10 +19,19 @@ For our first project, we're going to take a look at World Development Statistic
 
 Generally speaking, you will be asked to come up with a data science problem. This problem is ultimately up to you, but below are some guidelines/things to consider when crafting a problem statement:
 > 1. Consider your audience. Who is your project going to help? Who will your presentation be geared towards? Establishing your audience first can help you narrow down your scope.
+
+###### Audience are the people of DSI. Who wants a better career.This project will help analyze the job market using poplation, emplyment and companices created.**non-technical**
+
 > 2. Consider the data you will use. Based on the contents of this data, think about some questions you could reasonably answer. These questions should aim to solve some kind of problem.
+
+### what is the current job market treand. What is the affect of each of these on each other.
+
 > 3. Based on these questions, what would bring some kind value to your audience? This can be business insights, increase sales, make decisions, etc.
+### 
 > 4. Put everything from the above steps together into a few sentences that describe the specific problem you are trying to solve and who it will benefit.
+###
 > [Here is a blog post](https://towardsdatascience.com/defining-a-data-science-problem-4cbf15a2a461) about crafting a data science problem statement.
+###
 
 Here are some example prompts if you need inspiration:
 > * Climate change will disproportionately affect countries at lower sea levels. In anctipation of sea level rise, you have been hired by a non-profit to identify which countries are most at risk and to report back the top 5 countries where relief and aid should be directed*.
@@ -39,19 +48,22 @@ Here are some example prompts if you need inspiration:
 There are 3 datasets included in the [`data`](./data/) folder for this project. You are required to pick **at least two** of these to complete your analysis. Feel free to use more than two if you would like, or add other relevant datasets you find online. **Hint: The Gapminder website has way more datasets**
 
 
+###Picking population and gni datasets
+
 
 **Make sure you cross-reference your data with your data sources to eliminate any data collection or data entry issues.**
 
 #### Additional Data
+
 You are welcome to add any other data sources you find online to support your analysis, but this is **not required**.
 
----
+     ### Job market treand
 
 ### Deliverables
 
 All of your projects will comprise of a written technical report and a presentation. As we continue in the course, your technical report will grow in complexity, but for this initial project it will comprise:
 - A Jupyter notebook that describes your data with visualizations & statistical analysis.
-- A README markdown file the provides an introduction to and overview of your project.
+- A README markdown file that provides an introduction to and overview of your project.
 - Your presentation slideshow rendered as a .pdf file.
 **NOTE**: Your entire Github repository will be evaluated as your technical report. Make sure that your files and directories are named appropriately, that all necessary files are included, and that no unnecessary or incomplete files are included.
 
