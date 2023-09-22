@@ -10,10 +10,8 @@ It is usually assumed that the economoy of a country is dependent on the ecomoni
 
 
 - File Directory/table of contents
-.
-├── ...
-├── data         
 
+├── data         
 │   ├── gni_per_cap_atlas_method_con2021.csv          
 │   ├── population.csv       
 │   └── pop_gni_merged.csv 
@@ -44,7 +42,7 @@ It is usually assumed that the economoy of a country is dependent on the ecomoni
 
 Generally, it is thought that a country's population growth has a positive correlation with the economic well-being of its citizens. Gross National Income (GNI) is considered a metric of a country's economic well-being. Our findings show there was a positive correlation between population growth and GNI growth only until the mid-1990s. After the 1960s, this positive correlation turned negative, leading us to conclude that ***A positive population growth does not solely depend on increase in country's Gross National Income or vice versa***. Factors other than GNI likely influence population growth as well.
 
-![Alt text]("./concluding_graph") 
+![Alt text]("./concluding_graph.png") 
 
 
 
