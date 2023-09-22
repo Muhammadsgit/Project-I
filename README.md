@@ -18,7 +18,7 @@ It is usually assumed that the economoy of a country is dependent on the ecomoni
 │   └── pop_gni_merged.csv               
 ├── Code folder 
 │   ├── code V8.ipynb          
-│   ├── correlation V8.ipynb 
+│   └── correlation V8.ipynb 
 ├── Presentation folder  
 │   ├── A look at GNI and Population.pdf  
 
