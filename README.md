@@ -46,12 +46,12 @@ Generally, it is thought that a country's population growth has a positive corre
 
 
 - Areas for Further Research/Study
--
+
 Analyze the correlation between GNI and population growth before and after major economic events (e.g. recessions, financial crises) to understand impacts.
 
 
 - Sources
-- 
+
 Practical Statistics for Data Scientists by Peter Bruce, Andrew Bruce and Peter Gedeck
 
 ## Authors
