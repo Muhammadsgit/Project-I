@@ -4,7 +4,7 @@
    Does there exist a correlation between the population growth of all countries and their GNI growth?
 
 
-- Executive Summary (2-3 paragraphs)
+- Executive Summary
 
 It is usually assumed that the economoy of a country is dependent on the ecomonic condition of its citizen. World Development Statistics from [Gapminder](https://www.gapminder.org/about/) dataset provides us an excellent source to prove or disprove this notion of correlation between these two attributes. I aim to find evidence of correlation between GNI and population growth through examining trends embedded within the dataset.
 
@@ -46,10 +46,12 @@ Generally, it is thought that a country's population growth has a positive corre
 
 
 - Areas for Further Research/Study
+-
 Analyze the correlation between GNI and population growth before and after major economic events (e.g. recessions, financial crises) to understand impacts.
 
 
 - Sources
+- 
 Practical Statistics for Data Scientists by Peter Bruce, Andrew Bruce and Peter Gedeck
 
 ## Authors
