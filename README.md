@@ -12,13 +12,17 @@ It is usually assumed that the economoy of a country is dependent on the ecomoni
 - File Directory/table of contents
 .
 ├── ...
-├── data                    
+├── data         
+
 │   ├── gni_per_cap_atlas_method_con2021.csv          
 │   ├── population.csv       
-│   └── pop_gni_merged.csv               
+│   └── pop_gni_merged.csv 
+
 ├── Code folder 
-│   └──  code V8.ipynb          
+
+│   ├──  code V8.ipynb          
 │   └── correlation V8.ipynb 
+
 ├── Presentation folder  
 │   ├── A look at GNI and Population.pdf  
 
